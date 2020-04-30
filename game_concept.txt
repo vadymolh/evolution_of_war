@@ -1,0 +1,104 @@
+Turn-based strategy (TBS) game
+
+Name: Evolution of War (EoW) - ?
+
+Idea: demonstrate that the main resource - people
+
+Concept:
+
+1. Fantasy world, so nothing can offense real people :)
+2. Different races with different abilities, might be unbalanced
+3. Player starts with one settlement and primitive technologies
+4. People of each race can be infants, adults, elders and have some chance of giving birth and sudden death
+5. Infants can't fight and work, elders have the biggest change of sudden death
+6. Each turn equals near 1 month of game time
+7. Player can form many armies from existing people and move them to adjacent square/hex
+8. Army can be trained while staying
+9. Each person gets random starting characteristics, which can be improved through time, trainings and battles
+10. Some science breakouts can happen randomly from time to time.
+11. Some natrual disasters can happen randomly from time to time.
+12. Battle is being performed automatically in random mode according to characteristics of armies involved into battle.
+
+Gameplay
+
+1. Player starts with one settlement and some amount of people.
+2. Player can choose some people to work, some to form army, some to form scientists, etc.
+3. Player can move armies from one game tile to another. When army collide with enemy's army - battle begins.
+4. Player can build/conquer/destroy settlements.
+5. Player can move settlers from one settlement to another.
+6. Player can distribute scientists to perform investigations in different directions: weapons, farming, science, etc.
+7. Player can build different building in settlements, which can give different bonuses: better science, improve settlement defense, etc.
+8. Player can conquer empty game tiles, which can increase production of food, wood, coal, etc.
+
+Race abilities/characteristics:
+
+1. Population growth, chance of giving birth
+2. Lifetime span
+3. Science breakout chance
+4. Physical parameters (used in battles: durability, chance of attack, chance of defend, etc.)
+5. Training skills
+6. Age of becoming adult
+7. Environmental buffs/debuffs
+8. Health characteristics, immune to some diseases or vice verca
+
+Races:
+
+1. Yians
+Yians always try to achieve balance in everything: body and soul, good and evil, war and peace. They have no real advantages and disadvantages. Recommended for new players.
+Pros: -
+Cons: -
+ 
+2. Brutfals
+Brutfals have big and strong bodies and always resolve conflicts with brute force. With such power and egoism they don't need sharp minds.
+Pros: physical strength +40%, trainings +50%, aging -10% (i.e. reduce strength with age is slower)
+Cons: science -50%
+
+3. Minpows
+Minpows put everything on science. With clever approaches they increase resource production and better educate new generations. Of course, they lack in strength and combat skills.
+Pros: science +50%, resource production +25%
+Cons: physical strength -20%, aging +10%, combat skills -30%
+
+4. Indelvs
+Indelvs always live in harmony with Mother Nature. They take only what they need and can survive in any place of this world. Good in reproduction, but slightly bad in other areas.
+Pros: environmental buffs +50%, debuffs -50%, birth +40%
+Cons: science -20%, resource production -20%, combat skills -20%
+
+5. Tmechs
+Tmechs love instruments and try to automate their work as much as possible. With technologies they can get useful resources anywhere. On the other hand - technologies make their bodies weaker.
+Pros: no environmental buffs/debuffs, science +20%, resource production +50%
+Cons: birth -30%, physical strengh -30%, combat skill -20%
+
+6. Warjas
+Warjas were born to fight. They train everyday, thus lose their health a bit faster with age due to countless bruies, scars and injuries. Masterful fighters, but slightly bad in other areas.
+Pros: combat skills +50%, physical strength +10%
+Cons: aging +20%, science -20%, resource production -20%
+
+7. Custom race?
+Player can build custom race using certain amount of points.
+
+Unit characteristics:
+
+1. Race
+2. Health point (hp)
+3. Age
+4. Physical strength (can be improved in trainings and depends on age)
+5. Intelligence (can be improved in education and scientific job)
+6. Attack/Weapon skills (can be improved in trainings and battles):
+   5.1. Hit: stick, polearm, hammer, etc.
+   5.2. Slash and stab: sword, axe, knife, etc.
+   5.3. Throw: stone, spear, grenade, etc.
+   5.4. Shoot: bow, gun, etc.
+7. Defence skills: evasion, shields, etc. (can be improved in trainings and battles)
+8. Craft/working skills (can be improved during work)
+
+How to win:
+
+Destroy or conquer all opponents
+
+Game options:
+
+1. Map size
+2. Settlement size
+3. Technology age
+4. Number of players
+
