@@ -2,12 +2,13 @@
 Module designed to handle Main Menu, which appears on start.
 """
 
+
 class MainMenu:
 
     def menu_continue(self):
         """Fast option to load recent single player game."""
         pass
-    
+
     def menu_single_player(self):
         # TODO: consider submenu for single player - "new game", "load", etc.
         pass
@@ -16,13 +17,13 @@ class MainMenu:
         # TODO: consider if we are going to implement multiplayer on first release
         pass
 
-    def menu_settings(self)
+    def menu_settings(self):
         pass
 
-    def menu_help(self)
+    def menu_help(self):
         pass
 
-    def menu_quit(self)
+    def menu_quit(self):
         pass
 
     def show_menu(self):
