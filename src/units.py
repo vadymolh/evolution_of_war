@@ -18,7 +18,7 @@ class HumanUnit(BaseUnit):
                     age: float,
                     strengh: int,
                     intelligence: int,
-                    endurance: int,
+                    stamina: int,
                     disease: str,
                     combat_exp: int,
                     weapon: dict,
